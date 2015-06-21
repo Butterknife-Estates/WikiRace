@@ -1,1 +1,1 @@
-# WikiRace
+# wikigame
